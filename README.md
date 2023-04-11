@@ -1,5 +1,5 @@
 # Responsive Portfolio Website | NUYsDev 🖥️
-## [Preview](#) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/responsive-portfolio-website-nuysdev/) | [UI Design](https://www.behance.net/gallery/168105371/Responsive-Portfolio-Website-UI-Design-Nuysdev)
 
 
 ### Include this Marketing Website ➡️
